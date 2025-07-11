@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: qmask/myweb:7
+        image: qmask/myweb:8
         ports:
         - containerPort: 8080
